@@ -17,6 +17,12 @@ public class Minimum {
 
 		int a = 11;
 	      int b = 6;
+	      
+	      
+	      
+	      System.out.println("MY NAME IS MAHED ALI");
+	      System.out.println("MY NAME IS MAHED ALI");
+	      System.out.println("MY NAME IS MAHED ALI");
 	      int c = minFunction(a, b);
 	      System.out.println("Minimum Value = " + c);
 	      System.out.println("MY NAME IS MAHED ALI");
