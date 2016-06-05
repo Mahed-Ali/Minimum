@@ -20,6 +20,9 @@ public class Minimum {
 	      int c = minFunction(a, b);
 	      System.out.println("Minimum Value = " + c);
 	      System.out.println("MY NAME IS MAHED ALI");
+	      System.out.println("MY NAME IS MAHED ALI");
+	      System.out.println("MY NAME IS MAHED ALI");
+	      System.out.println("MY NAME IS MAHED ALI");
 	
 	
 	}
